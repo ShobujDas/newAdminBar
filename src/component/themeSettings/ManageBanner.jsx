@@ -1,6 +1,6 @@
 import React from "react";
 import Layout from "../layout/Layout";
-import Mian from "../Mian";
+
 import { FaTachometerAlt } from "react-icons/fa";
 
 function ManageBanner() {
